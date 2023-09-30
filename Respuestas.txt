@@ -1,0 +1,6 @@
+QUE PROBLEMAS SE PUEDE VER A SIMPLE VISTA ?
+Los problemas que se pueden ver a simple vista es que al crearse dos hilos,el hilo 0 y el hilo 1,
+el hilo 1 es el que ejecuta todo.
+QUE NOMBRES SE LE DA A ESTA FALLA QUE OCURRE EN ELCODIGO QUE PROVOCA QUE CADA EJECUCION PRESENTE RESULTADOS DIFERENTES ? 
+
+Race conditions 
